@@ -20,13 +20,3 @@ https://github.com/sensiya/flashlightdemo
 
 Action Lab - showcase of the Sensiya SDK capabilities:
 https://play.google.com/store/apps/details?id=com.sensiya.lab
-
-
-   _____                    _                  _____  _____   _  __
-  / ____|                  (_)                / ____||  __ \ | |/ /
- | (___    ___  _ __   ___  _  _   _   __ _  | (___  | |  | || ' / 
-  \___ \  / _ \| '_ \ / __|| || | | | / _` |  \___ \ | |  | ||  <  
-  ____) ||  __/| | | |\__ \| || |_| || (_| |  ____) || |__| || . \ 
- |_____/  \___||_| |_||___/|_| \__, | \__,_| |_____/ |_____/ |_|\_\
-                                __/ |                              
-                               |___/                               
