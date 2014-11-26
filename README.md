@@ -15,8 +15,5 @@ https://github.com/sensiya/sensiyasdk/archive/master.zip
 Sensiya SDK example project: 
 https://github.com/sensiya/sdkexample
 
-FlashLight Demo based on Sensiya SDK:
-https://github.com/sensiya/flashlightdemo
-
 Action Lab - showcase of the Sensiya SDK capabilities:
 https://play.google.com/store/apps/details?id=com.sensiya.lab
